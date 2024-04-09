@@ -1,1 +1,6 @@
-# Animal-App-IOS
+# Animal-App-IOS![Screenshot 2024-04-09 at 10 22 08 AM](https://github.com/Ntank9038/Animal-App-IOS/assets/152370064/c5d0a041-bc5c-4fea-9df9-e6c7c620ec6f)
+![Screenshot 2024-04-09 at 10 21 56 AM](https://github.com/Ntank9038/Animal-App-IOS/assets/152370064/ef1bed93-545f-4895-829f-eec3d25ef869)
+![Screenshot 2024-04-09 at 10 21 50 AM](https://github.com/Ntank9038/Animal-App-IOS/assets/152370064/edeebd14-f51d-48e5-a266-957c355dffc2)
+![Screenshot 2024-04-09 at 10 21 43 AM](https://github.com/Ntank9038/Animal-App-IOS/assets/152370064/a37d01c7-42c8-4c47-8948-c082ec579550)
+![Screenshot 2024-04-09 at 10 21 32 AM](https://github.com/Ntank9038/Animal-App-IOS/assets/152370064/a113b552-453a-47b8-ae15-8f29005ea91f)
+![Screenshot 2024-04-09 at 10 21 22 AM](https://github.com/Ntank9038/Animal-App-IOS/assets/152370064/8f44ae5f-d1e9-4df4-a5cd-c973fd33f949)
